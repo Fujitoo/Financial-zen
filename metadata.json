@@ -1,0 +1,7 @@
+{
+  "description": "Financial Zen - An AI-powered personal finance tracker with natural language processing and advanced data visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Financial Zen"
+}
